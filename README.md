@@ -22,10 +22,7 @@ I'm a 17 Y/O Self-Taught Back-End Developer
           <a href="https://expressjs.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
           </a>
-</p>
----
-### 📚 Learning...
-<p align="center"></p>
+        <div> 📚 Learning... </div>
         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
         </a>
@@ -39,6 +36,8 @@ I'm a 17 Y/O Self-Taught Back-End Developer
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
         </a>
 </p>
+---
+### 
 
 ## Contact
 <p align="center">
