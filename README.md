@@ -1,11 +1,6 @@
 Hi I'm Ozturk
 I'm a 17 Y/O Self-Taught Back-End Developer
 
-## Contact
-<p align="center">
-    <a href="https://www.instagram.com/yusufkench/"><img src="https://img.shields.io/badge/yusufkench%20-ff082d.svg?&style=for-the-badge&logo=instagram&logoColor=white%22" /></a>
-</p>
-
 ---
 ### 🧰 Languages and Tools
 <p align="center">
@@ -30,8 +25,7 @@ I'm a 17 Y/O Self-Taught Back-End Developer
 </p>
 ---
 ### 📚 Learning...
-
-   <p align="center"></p>
+<p align="center"></p>
         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
         </a>
@@ -44,4 +38,9 @@ I'm a 17 Y/O Self-Taught Back-End Developer
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
         </a>
-    </p>
+</p>
+
+## Contact
+<p align="center">
+    <a href="https://www.instagram.com/yusufkench/"><img src="https://img.shields.io/badge/yusufkench%20-ff082d.svg?&style=for-the-badge&logo=instagram&logoColor=white%22" /></a>
+</p>
