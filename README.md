@@ -1,4 +1,6 @@
+
 Hi I'm Ozturk
+
 I'm a 17 Y/O Self-Taught Back-End Developer
 
 ---
@@ -22,7 +24,13 @@ I'm a 17 Y/O Self-Taught Back-End Developer
           <a href="https://expressjs.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
           </a>
-        <div> 📚 Learning... </div>
+
+</p>
+
+---
+
+### 📕 Learning..
+<p align="center">
         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
         </a>
@@ -37,3 +45,13 @@ I'm a 17 Y/O Self-Taught Back-End Developer
         </a>
 </p>
 
+---
+### 📱 Contact
+<p align="center">
+    <a href="https://www.instagram.com/yusufkench/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/yusufkench%20-ff082d.svg?&style=for-the-badge&logo=instagram&logoColor=white%22" />
+        </a>
+        <a href="https://discord.com/users/589193582473117699" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/yuzuf%20-3479bf.svg?&style=for-the-badge&logo=discord&logoColor=white%22" />
+        </a>
+</p>
