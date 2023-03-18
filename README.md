@@ -28,7 +28,7 @@ I'm a 17 Y/O Self-Taught Back-End Developer
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
           </a>
          <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer">
-            <img src="https://plugins.jetbrains.com/files/6884/307245/icon/pluginIcon.png" alt="handlebars" width="40" height="40" />
+            <img src="https://avatars.githubusercontent.com/u/19378685?s=280&v=4" alt="handlebars" width="40" height="40" />
           </a>
 
 </p>
