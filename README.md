@@ -36,10 +36,4 @@ I'm a 17 Y/O Self-Taught Back-End Developer
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
         </a>
 </p>
----
-### 
 
-## Contact
-<p align="center">
-    <a href="https://www.instagram.com/yusufkench/"><img src="https://img.shields.io/badge/yusufkench%20-ff082d.svg?&style=for-the-badge&logo=instagram&logoColor=white%22" /></a>
-</p>
