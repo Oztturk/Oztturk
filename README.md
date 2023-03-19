@@ -52,9 +52,6 @@ I'm a 17 Y/O Self-Taught Back-End Developer
 ### 📱 Contact
 <p align="center">
     <a href="https://www.instagram.com/yusufkench/" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/yusufkench%20-ff082d.svg?&style=for-the-badge&logo=instagram&logoColor=white%22" />
-        </a>
-        <a href="https://discord.com/users/589193582473117699" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/yuzuf%20-3479bf.svg?&style=for-the-badge&logo=discord&logoColor=white%22" />
-        </a>
+        <img src="https://img.shields.io/badge/yusufkench%20-ff082d.svg?&style=for-the-badge&logo=instagram&logoColor=white%22" />
+    </a>
 </p>
