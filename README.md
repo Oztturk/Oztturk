@@ -1,6 +1,3 @@
-
-Hi I'm Ozturk
-
 I'm a 17 Y/O Self-Taught Back-End Developer
 
 ---
