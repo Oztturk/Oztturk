@@ -1,4 +1,4 @@
-I'm a 17 Y/O Self-Taught Back-End Developer
+17 Y/O Self-Taught Back-End Developer
 
 ---
 ### 🧰 Languages and Tools
