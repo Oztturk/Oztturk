@@ -21,7 +21,7 @@
 # 📊 GitHub Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oztturk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://visitcount.itsvg.in/api?id=oztturk&label=Profile%20Views&icon=0&pretty=false" />
 
+<img src="https://visitcount.itsvg.in/api?id=oztturk&label=Profile%20Views&icon=0&pretty=false" />
 
 </div>
