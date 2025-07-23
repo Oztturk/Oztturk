@@ -27,4 +27,4 @@ const Oztturk: Developer = {
 
 export default Oztturk;
 ```
-![snake animation](https://github.com/oztturk/oztturk/blob/output/github-contribution-grid-snake2.svg)
+ ![Snake animation](https://github.com/Sutil/Sutil/blob/output/github-snake-dark.svg)
