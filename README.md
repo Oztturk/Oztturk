@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/Oztturk/Oztturk/refs/heads/main/text.svg"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oztturk/Oztturk/refs/heads/main/text.svg"/>
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oztturk/oztturk/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oztturk/oztturk/output/github-snake.svg" />
